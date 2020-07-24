@@ -1,2 +1,1 @@
-# miktorik_hotspot_useradd_python_bot
-Телеграм бот регистрации пользователя на Hotspot telegramm
+Telegramm бот Для создание пользователя на Mikrotik Hotspot /ip/hotspot/users
