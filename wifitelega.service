@@ -1,0 +1,9 @@
+# Сменить путь и закинуть в директорию /lib/systemd/system Centos 8
+[Unit]
+Description=WIFI AP TELEGA
+After=multi-user.target
+[Service]
+Type=idle
+ExecStart= /usr/bin/nohup /usr/bin/python3 /root/wifibot/pyt
+[Install]
+WantedBy=multi-user.target
